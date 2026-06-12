@@ -1,0 +1,158 @@
+{
+  "path": "/contact/contact/",
+  "source_url": "https://www.npgc.in/ContactUs.aspx",
+  "title": "Contact",
+  "category": "Contact",
+  "page_category": "contact",
+  "keywords": [
+    "Contact",
+    "NPGC",
+    "National Post Graduate College"
+  ],
+  "last_updated": "",
+  "breadcrumb": [
+    {
+      "title": "Home",
+      "url": "/"
+    },
+    {
+      "title": "Contact",
+      "url": "/contact/"
+    },
+    {
+      "title": "Contact",
+      "url": "/contact/contact/"
+    }
+  ],
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Contact"
+    },
+    {
+      "level": "h3",
+      "text": "Postal Address"
+    },
+    {
+      "level": "h3",
+      "text": "Working Hours"
+    },
+    {
+      "level": "h3",
+      "text": "All Enquiries"
+    },
+    {
+      "level": "h3",
+      "text": "Training and Placement Office"
+    },
+    {
+      "level": "h3",
+      "text": "How to find us"
+    },
+    {
+      "level": "h3",
+      "text": "About"
+    },
+    {
+      "level": "h3",
+      "text": "Quick Links"
+    },
+    {
+      "level": "h3",
+      "text": "External Links"
+    },
+    {
+      "level": "h3",
+      "text": "Contact Us"
+    }
+  ],
+  "overview": "This page stores NPGC contact information for Contact. Captured source headings include: Contact, Postal Address, Working Hours, All Enquiries. Source page: https://www.npgc.in/ContactUs.aspx",
+  "content": "Monday-Saturday : 08:00am - 04:00pm\nSunday : CLOSED\nPhone : 0522 4021304\nTraining and Placement Office\nPhone : 93355 19893\nEmail: support@npgc.in\nHow to find us",
+  "tables": [],
+  "faq": [],
+  "related_links": [
+    "https://www.npgc.in/About-AboutTheCollege.aspx",
+    "https://www.npgc.in/About-Achievements.aspx",
+    "https://www.npgc.in/About-Administration.aspx",
+    "https://www.npgc.in/About-AnnualReport.aspx",
+    "https://www.npgc.in/About-MissionVision.aspx",
+    "https://www.npgc.in/About-PrincipalDesk.aspx",
+    "https://www.npgc.in/Academics-AcademicCalendar.aspx",
+    "https://www.npgc.in/Academics-CVFS.aspx",
+    "https://www.npgc.in/Academics-CoursesCertification.aspx",
+    "https://www.npgc.in/Academics-CoursesDiploma.aspx",
+    "https://www.npgc.in/Academics-CoursesPG.aspx",
+    "https://www.npgc.in/Academics-CoursesUG.aspx",
+    "https://www.npgc.in/Academics-DLIgnou.aspx",
+    "https://www.npgc.in/Academics-Department.aspx",
+    "https://www.npgc.in/Academics-ExamAssesCBCS.aspx",
+    "https://www.npgc.in/Academics-Publications.aspx",
+    "https://www.npgc.in/Academics-Research.aspx",
+    "https://www.npgc.in/Academics-TimeTable.aspx",
+    "https://www.npgc.in/Admission-AdmissionSchedules.aspx",
+    "https://www.npgc.in/Admission-Eligibility.aspx",
+    "mailto:support@npgc.in",
+    "tel:+91522618312",
+    "tel:+919335519893"
+  ],
+  "source_assets": [
+    "https://www.npgc.in/assets/MiscPDF/AntiRaggingRegulations2016.pdf",
+    "https://www.npgc.in/assets/MiscPDF/POSHAct2013.pdf"
+  ],
+  "external_links": [
+    "http://admission.npgc.in/",
+    "http://exam.npgc.in/",
+    "http://nlist.inflibnet.ac.in/",
+    "http://result.npgc.in/",
+    "http://scholarship.up.nic.in/",
+    "http://www.employmentnews.gov.in/",
+    "http://www.ignou.ac.in/",
+    "http://www.lkouniv.ac.in/",
+    "http://www.naac.gov.in/",
+    "http://www.ugc.ac.in/",
+    "http://www.uprtou.ac.in/",
+    "https://antiragging.in/affidavit_registration_disclaimer.html",
+    "https://forms.gle/j7MPimLquQC4EKvQA",
+    "https://npgcij.com/",
+    "https://swayam.gov.in/",
+    "https://twitter.com/npgcin",
+    "https://www.facebook.com/npgcin/",
+    "https://www.instagram.com/npgcin",
+    "https://www.msde.gov.in/",
+    "https://www.ncs.gov.in/"
+  ],
+  "content_blocks": [
+    {
+      "type": "p",
+      "text": "Monday-Saturday : 08:00am - 04:00pm"
+    },
+    {
+      "type": "p",
+      "text": "Sunday : CLOSED"
+    },
+    {
+      "type": "p",
+      "text": "Phone : 0522 4021304"
+    },
+    {
+      "type": "h3",
+      "text": "Training and Placement Office"
+    },
+    {
+      "type": "p",
+      "text": "Phone : 93355 19893"
+    },
+    {
+      "type": "p",
+      "text": "Email: support@npgc.in"
+    },
+    {
+      "type": "h3",
+      "text": "How to find us"
+    }
+  ],
+  "images": [],
+  "extraction_status": "ok",
+  "extraction_error": "",
+  "local_assets": []
+}

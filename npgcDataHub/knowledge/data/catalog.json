@@ -1,0 +1,1893 @@
+{
+  "site_title": "npgcDataHub",
+  "source": "https://www.npgc.in/",
+  "page_count": 228,
+  "categories": [
+    {
+      "slug": "about",
+      "title": "About College",
+      "url": "/about/",
+      "page_count": 7
+    },
+    {
+      "slug": "admissions",
+      "title": "Admissions",
+      "url": "/admissions/",
+      "page_count": 5
+    },
+    {
+      "slug": "academics",
+      "title": "Academics",
+      "url": "/academics/",
+      "page_count": 13
+    },
+    {
+      "slug": "departments-faculty",
+      "title": "Departments and Faculty",
+      "url": "/departments-faculty/",
+      "page_count": 11
+    },
+    {
+      "slug": "student-services",
+      "title": "Student Services",
+      "url": "/student-services/",
+      "page_count": 7
+    },
+    {
+      "slug": "facilities",
+      "title": "Facilities",
+      "url": "/facilities/",
+      "page_count": 7
+    },
+    {
+      "slug": "notices",
+      "title": "Notices",
+      "url": "/notices/",
+      "page_count": 51
+    },
+    {
+      "slug": "media",
+      "title": "Media and Events",
+      "url": "/media/",
+      "page_count": 68
+    },
+    {
+      "slug": "contact",
+      "title": "Contact",
+      "url": "/contact/",
+      "page_count": 1
+    },
+    {
+      "slug": "general",
+      "title": "General Information",
+      "url": "/general/",
+      "page_count": 58
+    }
+  ],
+  "pages": [
+    {
+      "title": "About About The College",
+      "path": "/about/about-about-the-college/",
+      "source_url": "https://www.npgc.in/About-AboutTheCollege.aspx",
+      "page_category": "about",
+      "category": "About College",
+      "data_file": "about/about-about-the-college.json"
+    },
+    {
+      "title": "About Achievements",
+      "path": "/about/about-achievements/",
+      "source_url": "https://www.npgc.in/About-Achievements.aspx",
+      "page_category": "about",
+      "category": "About College",
+      "data_file": "about/about-achievements.json"
+    },
+    {
+      "title": "About Administration",
+      "path": "/about/about-administration/",
+      "source_url": "https://www.npgc.in/About-Administration.aspx",
+      "page_category": "about",
+      "category": "About College",
+      "data_file": "about/about-administration.json"
+    },
+    {
+      "title": "About Annual Report",
+      "path": "/about/about-annual-report/",
+      "source_url": "https://www.npgc.in/About-AnnualReport.aspx",
+      "page_category": "about",
+      "category": "About College",
+      "data_file": "about/about-annual-report.json"
+    },
+    {
+      "title": "About Mission Vision",
+      "path": "/about/about-mission-vision/",
+      "source_url": "https://www.npgc.in/About-MissionVision.aspx",
+      "page_category": "about",
+      "category": "About College",
+      "data_file": "about/about-mission-vision.json"
+    },
+    {
+      "title": "About Principal Desk",
+      "path": "/about/about-principal-desk/",
+      "source_url": "https://www.npgc.in/About-PrincipalDesk.aspx",
+      "page_category": "about",
+      "category": "About College",
+      "data_file": "about/about-principal-desk.json"
+    },
+    {
+      "title": "Central Library",
+      "path": "/about/central-library/",
+      "source_url": "https://www.npgc.in/Library-AboutLibrary.aspx",
+      "page_category": "about",
+      "category": "About College",
+      "data_file": "about/central-library.json"
+    },
+    {
+      "title": "Academic Calendar",
+      "path": "/academics/academic-calendar/",
+      "source_url": "https://www.npgc.in/Academics-AcademicCalendar.aspx",
+      "page_category": "academics",
+      "category": "Academics",
+      "data_file": "academics/academic-calendar.json"
+    },
+    {
+      "title": "Centre for Vocational and Futuristic Studies",
+      "path": "/academics/centre-for-vocational-and-futuristic-studies/",
+      "source_url": "https://www.npgc.in/Academics-CVFS.aspx",
+      "page_category": "academics",
+      "category": "Academics",
+      "data_file": "academics/centre-for-vocational-and-futuristic-studies.json"
+    },
+    {
+      "title": "Class Schedule",
+      "path": "/academics/class-schedule/",
+      "source_url": "https://www.npgc.in/Academics-TimeTable.aspx",
+      "page_category": "academics",
+      "category": "Academics",
+      "data_file": "academics/class-schedule.json"
+    },
+    {
+      "title": "Courses",
+      "path": "/academics/courses-2/",
+      "source_url": "https://www.npgc.in/Academics-CoursesPG.aspx",
+      "page_category": "academics",
+      "category": "Academics",
+      "data_file": "academics/courses-2.json"
+    },
+    {
+      "title": "Courses",
+      "path": "/academics/courses-3/",
+      "source_url": "https://www.npgc.in/Academics-CoursesDiploma.aspx",
+      "page_category": "academics",
+      "category": "Academics",
+      "data_file": "academics/courses-3.json"
+    },
+    {
+      "title": "Courses",
+      "path": "/academics/courses-4/",
+      "source_url": "https://www.npgc.in/Academics-CoursesCertification.aspx",
+      "page_category": "academics",
+      "category": "Academics",
+      "data_file": "academics/courses-4.json"
+    },
+    {
+      "title": "Courses",
+      "path": "/academics/courses-5/",
+      "source_url": "https://www.npgc.in/Academics-CoursesUG.aspx",
+      "page_category": "academics",
+      "category": "Academics",
+      "data_file": "academics/courses-5.json"
+    },
+    {
+      "title": "Courses",
+      "path": "/academics/courses/",
+      "source_url": "https://www.npgc.in/Academics-CoursesUG.aspx",
+      "page_category": "academics",
+      "category": "Academics",
+      "data_file": "academics/courses.json"
+    },
+    {
+      "title": "Distance Learning Centre",
+      "path": "/academics/distance-learning-centre/",
+      "source_url": "https://www.npgc.in/Academics-DLIgnou.aspx",
+      "page_category": "academics",
+      "category": "Academics",
+      "data_file": "academics/distance-learning-centre.json"
+    },
+    {
+      "title": "Examination & Assesments",
+      "path": "/academics/examination-and-assesments-2/",
+      "source_url": "https://www.npgc.in/Academics-ExamAssesConventional.aspx",
+      "page_category": "academics",
+      "category": "Academics",
+      "data_file": "academics/examination-and-assesments-2.json"
+    },
+    {
+      "title": "Examination & Assesments",
+      "path": "/academics/examination-and-assesments/",
+      "source_url": "https://www.npgc.in/Academics-ExamAssesCBCS.aspx",
+      "page_category": "academics",
+      "category": "Academics",
+      "data_file": "academics/examination-and-assesments.json"
+    },
+    {
+      "title": "Publications",
+      "path": "/academics/publications/",
+      "source_url": "https://www.npgc.in/Academics-Publications.aspx",
+      "page_category": "academics",
+      "category": "Academics",
+      "data_file": "academics/publications.json"
+    },
+    {
+      "title": "Research",
+      "path": "/academics/research/",
+      "source_url": "https://www.npgc.in/Academics-Research.aspx",
+      "page_category": "academics",
+      "category": "Academics",
+      "data_file": "academics/research.json"
+    },
+    {
+      "title": "Admission Admission Schedules",
+      "path": "/admissions/admission-admission-schedules/",
+      "source_url": "https://www.npgc.in/Admission-AdmissionSchedules.aspx",
+      "page_category": "admissions",
+      "category": "Admissions",
+      "data_file": "admissions/admission-admission-schedules.json"
+    },
+    {
+      "title": "Admission Eligibility",
+      "path": "/admissions/admission-eligibility/",
+      "source_url": "https://www.npgc.in/Admission-Eligibility.aspx",
+      "page_category": "admissions",
+      "category": "Admissions",
+      "data_file": "admissions/admission-eligibility.json"
+    },
+    {
+      "title": "Admission Information Bulletine",
+      "path": "/admissions/admission-information-bulletine/",
+      "source_url": "https://www.npgc.in/Admission-InformationBulletine.aspx",
+      "page_category": "admissions",
+      "category": "Admissions",
+      "data_file": "admissions/admission-information-bulletine.json"
+    },
+    {
+      "title": "Admission Procedures",
+      "path": "/admissions/admission-procedures/",
+      "source_url": "https://www.npgc.in/Admission-Procedures.aspx",
+      "page_category": "admissions",
+      "category": "Admissions",
+      "data_file": "admissions/admission-procedures.json"
+    },
+    {
+      "title": "Admission Seats",
+      "path": "/admissions/admission-seats/",
+      "source_url": "https://www.npgc.in/Admission-Seats.aspx",
+      "page_category": "admissions",
+      "category": "Admissions",
+      "data_file": "admissions/admission-seats.json"
+    },
+    {
+      "title": "Contact",
+      "path": "/contact/contact/",
+      "source_url": "https://www.npgc.in/ContactUs.aspx",
+      "page_category": "contact",
+      "category": "Contact",
+      "data_file": "contact/contact.json"
+    },
+    {
+      "title": "Academic Calendar (Department) - 2025-26",
+      "path": "/departments-faculty/academic-calendar-department-2025-26/",
+      "source_url": "https://www.npgc.in/Academics-AcademicCalendarDepartment.aspx",
+      "page_category": "departments-faculty",
+      "category": "Departments and Faculty",
+      "data_file": "departments-faculty/academic-calendar-department-2025-26.json"
+    },
+    {
+      "title": "Counselling Center by Psychology Department",
+      "path": "/departments-faculty/counselling-center-by-psychology-department/",
+      "source_url": "https://www.npgc.in/CounsellingPsychology.aspx",
+      "page_category": "departments-faculty",
+      "category": "Departments and Faculty",
+      "data_file": "departments-faculty/counselling-center-by-psychology-department.json"
+    },
+    {
+      "title": "Departments and Faculties",
+      "path": "/departments-faculty/departments-and-faculties-2/",
+      "source_url": "https://www.npgc.in/Academics-DepartmentCommerce.aspx",
+      "page_category": "departments-faculty",
+      "category": "Departments and Faculty",
+      "data_file": "departments-faculty/departments-and-faculties-2.json"
+    },
+    {
+      "title": "Departments and Faculties",
+      "path": "/departments-faculty/departments-and-faculties-3/",
+      "source_url": "https://www.npgc.in/Academics-DepartmentScience.aspx",
+      "page_category": "departments-faculty",
+      "category": "Departments and Faculty",
+      "data_file": "departments-faculty/departments-and-faculties-3.json"
+    },
+    {
+      "title": "Departments and Faculties",
+      "path": "/departments-faculty/departments-and-faculties-4/",
+      "source_url": "https://www.npgc.in/Academics-DepartmentManagement.aspx",
+      "page_category": "departments-faculty",
+      "category": "Departments and Faculty",
+      "data_file": "departments-faculty/departments-and-faculties-4.json"
+    },
+    {
+      "title": "Departments and Faculties",
+      "path": "/departments-faculty/departments-and-faculties-5/",
+      "source_url": "https://www.npgc.in/Academics-DepartmentComputerScience.aspx",
+      "page_category": "departments-faculty",
+      "category": "Departments and Faculty",
+      "data_file": "departments-faculty/departments-and-faculties-5.json"
+    },
+    {
+      "title": "Departments and Faculties",
+      "path": "/departments-faculty/departments-and-faculties-6/",
+      "source_url": "https://www.npgc.in/Academics-DepartmentJMC.aspx",
+      "page_category": "departments-faculty",
+      "category": "Departments and Faculty",
+      "data_file": "departments-faculty/departments-and-faculties-6.json"
+    },
+    {
+      "title": "Departments and Faculties",
+      "path": "/departments-faculty/departments-and-faculties-7/",
+      "source_url": "https://www.npgc.in/Academics-DepartmentDdukk.aspx",
+      "page_category": "departments-faculty",
+      "category": "Departments and Faculty",
+      "data_file": "departments-faculty/departments-and-faculties-7.json"
+    },
+    {
+      "title": "Departments and Faculties",
+      "path": "/departments-faculty/departments-and-faculties/",
+      "source_url": "https://www.npgc.in/Academics-Department.aspx",
+      "page_category": "departments-faculty",
+      "category": "Departments and Faculty",
+      "data_file": "departments-faculty/departments-and-faculties.json"
+    },
+    {
+      "title": "International Workshop Organised by Psychology Department ( 10 Apr 2016 )",
+      "path": "/departments-faculty/international-workshop-organised-by-psychology-department-10-apr-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=7",
+      "page_category": "departments-faculty",
+      "category": "Departments and Faculty",
+      "data_file": "departments-faculty/international-workshop-organised-by-psychology-department-10-apr-2016.json"
+    },
+    {
+      "title": "Two days National Seminar by Department of Geography ( 28 Mar 2017 )",
+      "path": "/departments-faculty/two-days-national-seminar-by-department-of-geography-28-mar-2017/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=29",
+      "page_category": "departments-faculty",
+      "category": "Departments and Faculty",
+      "data_file": "departments-faculty/two-days-national-seminar-by-department-of-geography-28-mar-2017.json"
+    },
+    {
+      "title": "Central Library Rules",
+      "path": "/facilities/central-library-rules/",
+      "source_url": "https://www.npgc.in/Library-Rules.aspx",
+      "page_category": "facilities",
+      "category": "Facilities",
+      "data_file": "facilities/central-library-rules.json"
+    },
+    {
+      "title": "Facilities Canteen",
+      "path": "/facilities/facilities-canteen/",
+      "source_url": "https://www.npgc.in/Facilities-Canteen.aspx",
+      "page_category": "facilities",
+      "category": "Facilities",
+      "data_file": "facilities/facilities-canteen.json"
+    },
+    {
+      "title": "Facilities Hostel Girls",
+      "path": "/facilities/facilities-hostel-girls/",
+      "source_url": "https://www.npgc.in/Facilities-HostelGirls.aspx",
+      "page_category": "facilities",
+      "category": "Facilities",
+      "data_file": "facilities/facilities-hostel-girls.json"
+    },
+    {
+      "title": "Facilities Infrastructure",
+      "path": "/facilities/facilities-infrastructure/",
+      "source_url": "https://www.npgc.in/Facilities-Infrastructure.aspx",
+      "page_category": "facilities",
+      "category": "Facilities",
+      "data_file": "facilities/facilities-infrastructure.json"
+    },
+    {
+      "title": "Facilities Medical Facility",
+      "path": "/facilities/facilities-medical-facility/",
+      "source_url": "https://www.npgc.in/Facilities-MedicalFacility.aspx",
+      "page_category": "facilities",
+      "category": "Facilities",
+      "data_file": "facilities/facilities-medical-facility.json"
+    },
+    {
+      "title": "Facilities Ncc",
+      "path": "/facilities/facilities-ncc/",
+      "source_url": "https://www.npgc.in/Facilities-NCC.aspx",
+      "page_category": "facilities",
+      "category": "Facilities",
+      "data_file": "facilities/facilities-ncc.json"
+    },
+    {
+      "title": "Facilities Sports Games",
+      "path": "/facilities/facilities-sports-games/",
+      "source_url": "https://www.npgc.in/Facilities-SportsGames.aspx",
+      "page_category": "facilities",
+      "category": "Facilities",
+      "data_file": "facilities/facilities-sports-games.json"
+    },
+    {
+      "title": "About",
+      "path": "/general/about/",
+      "source_url": "https://www.npgc.in/Facilities-DifferentlyAbled.aspx",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/about.json"
+    },
+    {
+      "title": "Admission Process 2026-27",
+      "path": "/general/admission-process-2026-27-2/",
+      "source_url": "https://www.npgc.in/Default.aspx",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/admission-process-2026-27-2.json"
+    },
+    {
+      "title": "Admission Process 2026-27",
+      "path": "/general/admission-process-2026-27/",
+      "source_url": "https://www.npgc.in/",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/admission-process-2026-27.json"
+    },
+    {
+      "title": "Deen Dayal Upadhyay Kaushal Kendra (DDUKK)",
+      "path": "/general/deen-dayal-upadhyay-kaushal-kendra-ddukk/",
+      "source_url": "https://www.npgc.in/ddukk.aspx",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/deen-dayal-upadhyay-kaushal-kendra-ddukk.json"
+    },
+    {
+      "title": "Events",
+      "path": "/general/events/",
+      "source_url": "https://www.npgc.in/events.aspx",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/events.json"
+    },
+    {
+      "title": "Facilities Magazine",
+      "path": "/general/facilities-magazine/",
+      "source_url": "https://www.npgc.in/Facilities-Magazine.aspx",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/facilities-magazine.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-20755/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=20755",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-20755.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-20756/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=20756",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-20756.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-20757/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=20757",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-20757.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21757/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21757",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21757.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21758/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21758",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21758.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21760/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21760",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21760.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21761/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21761",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21761.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21762/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21762",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21762.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21770/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21770",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21770.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21772/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21772",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21772.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21774/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21774",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21774.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21775/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21775",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21775.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21776/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21776",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21776.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21777/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21777",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21777.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21778/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21778",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21778.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21779/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21779",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21779.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21780/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21780",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21780.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21781/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21781",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21781.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21784/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21784",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21784.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21785/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21785",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21785.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21786/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21786",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21786.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21787/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21787",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21787.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21788/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21788",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21788.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21789/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21789",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21789.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21790/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21790",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21790.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21791/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21791",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21791.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21792/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21792",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21792.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21793/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21793",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21793.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21794/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21794",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21794.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21795/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21795",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21795.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21797/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21797",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21797.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21798/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21798",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21798.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21800/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21800",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21800.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21801/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21801",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21801.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21803/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21803",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21803.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21806/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21806",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21806.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21807/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21807",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21807.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21808/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21808",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21808.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21809/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21809",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21809.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21810/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21810",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21810.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21811/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21811",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21811.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21812/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21812",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21812.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21813/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21813",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21813.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21814/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21814",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21814.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21816/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21816",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21816.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21817/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21817",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21817.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21818/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21818",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21818.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-21819/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=21819",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-21819.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-22819/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=22819",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-22819.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices-22820/",
+      "source_url": "https://www.npgc.in/Announcement.aspx?Id=22820",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices-22820.json"
+    },
+    {
+      "title": "Important Notices",
+      "path": "/general/important-notices/",
+      "source_url": "https://www.npgc.in/Announcement.aspx",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/important-notices.json"
+    },
+    {
+      "title": "Right to Information (RTI)",
+      "path": "/general/right-to-information-rti/",
+      "source_url": "https://www.npgc.in/RTI.aspx",
+      "page_category": "general",
+      "category": "General Information",
+      "data_file": "general/right-to-information-rti.json"
+    },
+    {
+      "title": "( )",
+      "path": "/media/page/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6066",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/page.json"
+    },
+    {
+      "title": "AZADI - 2019 ( 15 Aug 2019 )",
+      "path": "/media/azadi-2019-15-aug-2019/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=4038",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/azadi-2019-15-aug-2019.json"
+    },
+    {
+      "title": "Alumni Meet 2024 ( 23 Mar 2024 )",
+      "path": "/media/alumni-meet-2024-23-mar-2024/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6056",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/alumni-meet-2024-23-mar-2024.json"
+    },
+    {
+      "title": "Annual Sports Day ( 15 Oct 2016 )",
+      "path": "/media/annual-sports-day-15-oct-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=3",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/annual-sports-day-15-oct-2016.json"
+    },
+    {
+      "title": "Anti Tabcoo Programme ( 31 Aug 2016 )",
+      "path": "/media/anti-tabcoo-programme-31-aug-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=11",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/anti-tabcoo-programme-31-aug-2016.json"
+    },
+    {
+      "title": "Blood Donation Camp ( 15 Dec 2021 )",
+      "path": "/media/blood-donation-camp-15-dec-2021/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6041",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/blood-donation-camp-15-dec-2021.json"
+    },
+    {
+      "title": "Blood Donation Camp ( 26 Aug 2017 )",
+      "path": "/media/blood-donation-camp-26-aug-2017/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=32",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/blood-donation-camp-26-aug-2017.json"
+    },
+    {
+      "title": "Cancer Awareness Program ( 09 Nov 2016 )",
+      "path": "/media/cancer-awareness-program-09-nov-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=19",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/cancer-awareness-program-09-nov-2016.json"
+    },
+    {
+      "title": "DAY-1 ATAL-FDP (30th September to 05th October, 2024) ( 30 Sep 2024 )",
+      "path": "/media/day-1-atal-fdp-30th-september-to-05th-october-2024-30-sep-2024/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6057",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/day-1-atal-fdp-30th-september-to-05th-october-2024-30-sep-2024.json"
+    },
+    {
+      "title": "Day-2 ATAL-FDP (30th September to 05th October,2024) ( 01 Oct 2024 )",
+      "path": "/media/day-2-atal-fdp-30th-september-to-05th-october-2024-01-oct-2024/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6058",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/day-2-atal-fdp-30th-september-to-05th-october-2024-01-oct-2024.json"
+    },
+    {
+      "title": "Day-3 ATAL-FDP (30th September to 05th October,2024) ( 02 Oct 2024 )",
+      "path": "/media/day-3-atal-fdp-30th-september-to-05th-october-2024-02-oct-2024/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6059",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/day-3-atal-fdp-30th-september-to-05th-october-2024-02-oct-2024.json"
+    },
+    {
+      "title": "Day-4 ATAL-FDP (30th September to 05th October, 2024) ( 03 Oct 2024 )",
+      "path": "/media/day-4-atal-fdp-30th-september-to-05th-october-2024-03-oct-2024/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6060",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/day-4-atal-fdp-30th-september-to-05th-october-2024-03-oct-2024.json"
+    },
+    {
+      "title": "Day-5 ATAL-FDP (30th September to 05th October,2024) ( 04 Oct 2024 )",
+      "path": "/media/day-5-atal-fdp-30th-september-to-05th-october-2024-04-oct-2024/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6061",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/day-5-atal-fdp-30th-september-to-05th-october-2024-04-oct-2024.json"
+    },
+    {
+      "title": "Day-6 ATAL-FDP (30th September to 05th October,2024) ( 05 Oct 2024 )",
+      "path": "/media/day-6-atal-fdp-30th-september-to-05th-october-2024-05-oct-2024/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6062",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/day-6-atal-fdp-30th-september-to-05th-october-2024-05-oct-2024.json"
+    },
+    {
+      "title": "Debate Competition on Corruption ( 04 Nov 2016 )",
+      "path": "/media/debate-competition-on-corruption-04-nov-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=18",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/debate-competition-on-corruption-04-nov-2016.json"
+    },
+    {
+      "title": "Educational Visit to C.B. Gupta Krishi Mahavidyalaya ( 11 Mar 2025 )",
+      "path": "/media/educational-visit-to-c-b-gupta-krishi-mahavidyalaya-11-mar-2025/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6064",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/educational-visit-to-c-b-gupta-krishi-mahavidyalaya-11-mar-2025.json"
+    },
+    {
+      "title": "Felicitation Programme for Campus Placed Students ( 30 Apr 2016 )",
+      "path": "/media/felicitation-programme-for-campus-placed-students-30-apr-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=9",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/felicitation-programme-for-campus-placed-students-30-apr-2016.json"
+    },
+    {
+      "title": "Flag March ( 22 Aug 2016 )",
+      "path": "/media/flag-march-22-aug-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=12",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/flag-march-22-aug-2016.json"
+    },
+    {
+      "title": "Gallery Album",
+      "path": "/media/gallery-album/",
+      "source_url": "https://www.npgc.in/GalleryAlbum.aspx",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/gallery-album.json"
+    },
+    {
+      "title": "Health Check-up Camp ( 15 Dec 2021 )",
+      "path": "/media/health-check-up-camp-15-dec-2021/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6042",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/health-check-up-camp-15-dec-2021.json"
+    },
+    {
+      "title": "IGNOU Coordinators Meet ( 14 Aug 2016 )",
+      "path": "/media/ignou-coordinators-meet-14-aug-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=14",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/ignou-coordinators-meet-14-aug-2016.json"
+    },
+    {
+      "title": "Inaugural of College News Letter ( 23 Mar 2016 )",
+      "path": "/media/inaugural-of-college-news-letter-23-mar-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=8",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/inaugural-of-college-news-letter-23-mar-2016.json"
+    },
+    {
+      "title": "Innovative Techniques of Water Conservation for 21st Century ( 29 Sep 2018 )",
+      "path": "/media/innovative-techniques-of-water-conservation-for-21st-century-29-sep-2018/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=3037",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/innovative-techniques-of-water-conservation-for-21st-century-29-sep-2018.json"
+    },
+    {
+      "title": "Inquizitive Minds Quiz ( 04 Sep 2018 )",
+      "path": "/media/inquizitive-minds-quiz-04-sep-2018/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=3034",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/inquizitive-minds-quiz-04-sep-2018.json"
+    },
+    {
+      "title": "Inter College Debate Competition ( 10 Jan 2017 )",
+      "path": "/media/inter-college-debate-competition-10-jan-2017/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=23",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/inter-college-debate-competition-10-jan-2017.json"
+    },
+    {
+      "title": "Interactive Session with Shri Narendra Modi - Making Exam Fun ( 16 Feb 2018 )",
+      "path": "/media/interactive-session-with-shri-narendra-modi-making-exam-fun-16-feb-2018/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=2033",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/interactive-session-with-shri-narendra-modi-making-exam-fun-16-feb-2018.json"
+    },
+    {
+      "title": "International Seminar on Cross Cultural Communication: Literature and Identity ( 17 Feb 2020 )",
+      "path": "/media/international-seminar-on-cross-cultural-communication-literature-and-identity-17-feb-2020/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=5038",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/international-seminar-on-cross-cultural-communication-literature-and-identity-17-feb-2020.json"
+    },
+    {
+      "title": "Language Exchange Program ( 31 Oct 2022 )",
+      "path": "/media/language-exchange-program-31-oct-2022/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6050",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/language-exchange-program-31-oct-2022.json"
+    },
+    {
+      "title": "MERAKI - 2024 ( 01 Mar 2024 )",
+      "path": "/media/meraki-2024-01-mar-2024/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6053",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/meraki-2024-01-mar-2024.json"
+    },
+    {
+      "title": "Medha Samman ( 10 Apr 2017 )",
+      "path": "/media/medha-samman-10-apr-2017/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=31",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/medha-samman-10-apr-2017.json"
+    },
+    {
+      "title": "Medha Samman ( 16 Apr 2016 )",
+      "path": "/media/medha-samman-16-apr-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/medha-samman-16-apr-2016.json"
+    },
+    {
+      "title": "Mission Shakti ( 11 Dec 2021 )",
+      "path": "/media/mission-shakti-11-dec-2021/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6040",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/mission-shakti-11-dec-2021.json"
+    },
+    {
+      "title": "Mission Shakti - Nirbhaya Diwas ( 16 Dec 2021 )",
+      "path": "/media/mission-shakti-nirbhaya-diwas-16-dec-2021/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6044",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/mission-shakti-nirbhaya-diwas-16-dec-2021.json"
+    },
+    {
+      "title": "Motivational Lecture on Memory Management ( 04 Oct 2016 )",
+      "path": "/media/motivational-lecture-on-memory-management-04-oct-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=16",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/motivational-lecture-on-memory-management-04-oct-2016.json"
+    },
+    {
+      "title": "National Seminar by Study Centre ( 14 Apr 2017 )",
+      "path": "/media/national-seminar-by-study-centre-14-apr-2017/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=30",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/national-seminar-by-study-centre-14-apr-2017.json"
+    },
+    {
+      "title": "National Seminar on Gandhi Today ( 02 Oct 2016 )",
+      "path": "/media/national-seminar-on-gandhi-today-02-oct-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=15",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/national-seminar-on-gandhi-today-02-oct-2016.json"
+    },
+    {
+      "title": "National Seminar on Role of Analytical Techniques in Advanced Scientific Research ( 19 Mar 2016 )",
+      "path": "/media/national-seminar-on-role-of-analytical-techniques-in-advanced-scientific-research-19-mar-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=17",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/national-seminar-on-role-of-analytical-techniques-in-advanced-scientific-research-19-mar-2016.json"
+    },
+    {
+      "title": "News Paper",
+      "path": "/media/news-paper/",
+      "source_url": "https://www.npgc.in/News.aspx",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/news-paper.json"
+    },
+    {
+      "title": "Notice for Bag Responsibility in Exams ( 12 Feb 2022 )",
+      "path": "/media/notice-for-bag-responsibility-in-exams-12-feb-2022/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6046",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/notice-for-bag-responsibility-in-exams-12-feb-2022.json"
+    },
+    {
+      "title": "OAJ - 2024 ( 21 Mar 2024 )",
+      "path": "/media/oaj-2024-21-mar-2024/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6055",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/oaj-2024-21-mar-2024.json"
+    },
+    {
+      "title": "Oath Ceremony on Votor\\'s Day ( 25 Jan 2017 )",
+      "path": "/media/oath-ceremony-on-votor-s-day-25-jan-2017/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=20",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/oath-ceremony-on-votor-s-day-25-jan-2017.json"
+    },
+    {
+      "title": "One Day Sensitization Programme on Misuse of Social Media Networking ( 17 Jan 2016 )",
+      "path": "/media/one-day-sensitization-programme-on-misuse-of-social-media-networking-17-jan-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=2",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/one-day-sensitization-programme-on-misuse-of-social-media-networking-17-jan-2016.json"
+    },
+    {
+      "title": "One Day Workshop under Kaushal Scheme ( 05 Mar 2016 )",
+      "path": "/media/one-day-workshop-under-kaushal-scheme-05-mar-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=5",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/one-day-workshop-under-kaushal-scheme-05-mar-2016.json"
+    },
+    {
+      "title": "Orientation Programme ( 04 Jul 2016 )",
+      "path": "/media/orientation-programme-04-jul-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=10",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/orientation-programme-04-jul-2016.json"
+    },
+    {
+      "title": "Ph.D. Orientation Programme ( 29 Dec 2025 )",
+      "path": "/media/ph-d-orientation-programme-29-dec-2025/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6065",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/ph-d-orientation-programme-29-dec-2025.json"
+    },
+    {
+      "title": "Poster Competition ( 12 Sep 2017 )",
+      "path": "/media/poster-competition-12-sep-2017/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=1033",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/poster-competition-12-sep-2017.json"
+    },
+    {
+      "title": "Pre-Placement Week 2022 ( 09 Sep 2022 )",
+      "path": "/media/pre-placement-week-2022-09-sep-2022/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6047",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/pre-placement-week-2022-09-sep-2022.json"
+    },
+    {
+      "title": "Pre-Placement Week 2023 ( 23 Sep 2023 )",
+      "path": "/media/pre-placement-week-2023-23-sep-2023/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6051",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/pre-placement-week-2023-23-sep-2023.json"
+    },
+    {
+      "title": "Press Release",
+      "path": "/media/press-release/",
+      "source_url": "https://www.npgc.in/PressRelease.aspx",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/press-release.json"
+    },
+    {
+      "title": "Prize Distribution & Introduction Class of Civil Services Preparation ( 27 Aug 2016 )",
+      "path": "/media/prize-distribution-and-introduction-class-of-civil-services-preparation-27-aug-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=13",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/prize-distribution-and-introduction-class-of-civil-services-preparation-27-aug-2016.json"
+    },
+    {
+      "title": "Rangoli Competition ( 23 Dec 2021 )",
+      "path": "/media/rangoli-competition-23-dec-2021/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6045",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/rangoli-competition-23-dec-2021.json"
+    },
+    {
+      "title": "Seven Day Workshop on Emerging Technology ( 21 Mar 2016 )",
+      "path": "/media/seven-day-workshop-on-emerging-technology-21-mar-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=4",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/seven-day-workshop-on-emerging-technology-21-mar-2016.json"
+    },
+    {
+      "title": "Software Hub : A Creative Fest 2018 ( 28 Aug 2018 )",
+      "path": "/media/software-hub-a-creative-fest-2018-28-aug-2018/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=3035",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/software-hub-a-creative-fest-2018-28-aug-2018.json"
+    },
+    {
+      "title": "Special Lecture by Robin Oberg ( 25 Feb 2017 )",
+      "path": "/media/special-lecture-by-robin-oberg-25-feb-2017/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=25",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/special-lecture-by-robin-oberg-25-feb-2017.json"
+    },
+    {
+      "title": "Special Lecture on \"Statistics : Prospects & Challenges\" ( 16 Feb 2018 )",
+      "path": "/media/special-lecture-on-statistics-prospects-and-challenges-16-feb-2018/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=2034",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/special-lecture-on-statistics-prospects-and-challenges-16-feb-2018.json"
+    },
+    {
+      "title": "Special Lecture on Skill of Decision Making by experts from Amrut Mody School of Management ( 22 Mar 2017 )",
+      "path": "/media/special-lecture-on-skill-of-decision-making-by-experts-from-amrut-mody-school-of-management-22-mar-2017/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=28",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/special-lecture-on-skill-of-decision-making-by-experts-from-amrut-mody-school-of-management-22-mar-2017.json"
+    },
+    {
+      "title": "Spectrum - 2016 ( 26 Jan 2016 )",
+      "path": "/media/spectrum-2016-26-jan-2016/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=1",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/spectrum-2016-26-jan-2016.json"
+    },
+    {
+      "title": "Teacher's Day ( 05 Sep 2017 )",
+      "path": "/media/teacher-s-day-05-sep-2017/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=1032",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/teacher-s-day-05-sep-2017.json"
+    },
+    {
+      "title": "TechFest 3.0 ( 27 Feb 2024 )",
+      "path": "/media/techfest-3-0-27-feb-2024/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6052",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/techfest-3-0-27-feb-2024.json"
+    },
+    {
+      "title": "The River Rally (A Human Chain) ( 01 Sep 2017 )",
+      "path": "/media/the-river-rally-a-human-chain-01-sep-2017/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=33",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/the-river-rally-a-human-chain-01-sep-2017.json"
+    },
+    {
+      "title": "U.P. B.Ed Entrance Examination 2020 - Preparation ( 08 Aug 2020 )",
+      "path": "/media/u-p-b-ed-entrance-examination-2020-preparation-08-aug-2020/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6038",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/u-p-b-ed-entrance-examination-2020-preparation-08-aug-2020.json"
+    },
+    {
+      "title": "U.P. B.Ed Entrance Examination 2020 - Successfully Conducted ( 09 Aug 2020 )",
+      "path": "/media/u-p-b-ed-entrance-examination-2020-successfully-conducted-09-aug-2020/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6039",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/u-p-b-ed-entrance-examination-2020-successfully-conducted-09-aug-2020.json"
+    },
+    {
+      "title": "Unity Run ( 31 Oct 2022 )",
+      "path": "/media/unity-run-31-oct-2022/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6048",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/unity-run-31-oct-2022.json"
+    },
+    {
+      "title": "Workshop on Financial Inclusion ( 20 Oct 2022 )",
+      "path": "/media/workshop-on-financial-inclusion-20-oct-2022/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6049",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/workshop-on-financial-inclusion-20-oct-2022.json"
+    },
+    {
+      "title": "World Wildlife Day ( 03 Mar 2025 )",
+      "path": "/media/world-wildlife-day-03-mar-2025/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=6063",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/world-wildlife-day-03-mar-2025.json"
+    },
+    {
+      "title": "एक दिवसीय कार्यशाला - प्रयोजन मूलक हिंदी एवं रोजगार की सम्भावनाये ( 21 Jan 2017 )",
+      "path": "/media/21-jan-2017/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=22",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/21-jan-2017.json"
+    },
+    {
+      "title": "चिंतन दिवस ( 22 Feb 2017 )",
+      "path": "/media/22-feb-2017/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=24",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/22-feb-2017.json"
+    },
+    {
+      "title": "मातृभूमि की पुकार ( 11 Jan 2017 )",
+      "path": "/media/11-jan-2017/",
+      "source_url": "https://www.npgc.in/GalleryImages.aspx?EventId=26",
+      "page_category": "media",
+      "category": "Media and Events",
+      "data_file": "media/11-jan-2017.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16237/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16237",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16237.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16245/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16245",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16245.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16247/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16247",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16247.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16250/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16250",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16250.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16261/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16261",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16261.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16264/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16264",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16264.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16269/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16269",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16269.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16270/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16270",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16270.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16281/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16281",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16281.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16290/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16290",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16290.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16291/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16291",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16291.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16293/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16293",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16293.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16299/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16299",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16299.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16307/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16307",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16307.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16308/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16308",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16308.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16315/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16315",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16315.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16317/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16317",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16317.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16319/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16319",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16319.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16321/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16321",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16321.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16350/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16350",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16350.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16354/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16354",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16354.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16392/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16392",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16392.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16393/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16393",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16393.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16398/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16398",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16398.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16405/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16405",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16405.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16406/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16406",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16406.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16407/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16407",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16407.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16408/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16408",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16408.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16436/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16436",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16436.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16439/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16439",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16439.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16442/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16442",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16442.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16450/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16450",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16450.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16468/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16468",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16468.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16481/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16481",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16481.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16507/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16507",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16507.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16517/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16517",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16517.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16525/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16525",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16525.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16530/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16530",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16530.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-16563/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=16563",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-16563.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-17598/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=17598",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-17598.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-19599/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=19599",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-19599.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-20629/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=20629",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-20629.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-20648/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=20648",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-20648.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-20652/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=20652",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-20652.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-20653/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=20653",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-20653.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-20704/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=20704",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-20704.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-21759/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=21759",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-21759.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-21799/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=21799",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-21799.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-21805/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=21805",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-21805.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices-21815/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx?Id=21815",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices-21815.json"
+    },
+    {
+      "title": "e-Tender Notices",
+      "path": "/notices/e-tender-notices/",
+      "source_url": "https://www.npgc.in/TenderNotice.aspx",
+      "page_category": "notices",
+      "category": "Notices",
+      "data_file": "notices/e-tender-notices.json"
+    },
+    {
+      "title": "Downloads",
+      "path": "/student-services/downloads/",
+      "source_url": "https://www.npgc.in/StudentSupport-Downloads.aspx",
+      "page_category": "student-services",
+      "category": "Student Services",
+      "data_file": "student-services/downloads.json"
+    },
+    {
+      "title": "Online Study Material",
+      "path": "/student-services/online-study-material/",
+      "source_url": "https://www.npgc.in/StudentSupport-OnlineStudyMaterial.aspx",
+      "page_category": "student-services",
+      "category": "Student Services",
+      "data_file": "student-services/online-study-material.json"
+    },
+    {
+      "title": "Placement Notices",
+      "path": "/student-services/placement-notices/",
+      "source_url": "https://www.npgc.in/StudentSupport-PlacementsNotice.aspx",
+      "page_category": "student-services",
+      "category": "Student Services",
+      "data_file": "student-services/placement-notices.json"
+    },
+    {
+      "title": "Semester-End Examination Datesheet",
+      "path": "/student-services/semester-end-examination-datesheet/",
+      "source_url": "https://www.npgc.in/StudentSupport-Datesheet.aspx",
+      "page_category": "student-services",
+      "category": "Student Services",
+      "data_file": "student-services/semester-end-examination-datesheet.json"
+    },
+    {
+      "title": "Training & Placement Cell",
+      "path": "/student-services/training-and-placement-cell-2/",
+      "source_url": "https://www.npgc.in/Placement-2024.aspx",
+      "page_category": "student-services",
+      "category": "Student Services",
+      "data_file": "student-services/training-and-placement-cell-2.json"
+    },
+    {
+      "title": "Training & Placement Cell",
+      "path": "/student-services/training-and-placement-cell-3/",
+      "source_url": "https://www.npgc.in/Placement-2023.aspx",
+      "page_category": "student-services",
+      "category": "Student Services",
+      "data_file": "student-services/training-and-placement-cell-3.json"
+    },
+    {
+      "title": "Training & Placement Cell",
+      "path": "/student-services/training-and-placement-cell/",
+      "source_url": "https://www.npgc.in/StudentSupport-Placements.aspx",
+      "page_category": "student-services",
+      "category": "Student Services",
+      "data_file": "student-services/training-and-placement-cell.json"
+    }
+  ]
+}

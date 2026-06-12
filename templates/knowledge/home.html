@@ -1,0 +1,45 @@
+{% extends "knowledge/base.html" %}
+
+{% block title %}npgcDataHub | College Knowledge Base{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <p class="eyebrow">College Knowledge Layer</p>
+  <h1>National Post Graduate College Data Hub</h1>
+  <p class="lede">Structured pages generated from the public NPGC website for AI-friendly navigation, retrieval, and citation.</p>
+  <dl class="meta-grid">
+    <div>
+      <dt>Pages Loaded</dt>
+      <dd>{{ catalog.page_count }}</dd>
+    </div>
+    <div>
+      <dt>Local Content Pages</dt>
+      <dd>{{ stats.loaded_pages }}</dd>
+    </div>
+    <div>
+      <dt>Extracted Blocks</dt>
+      <dd>{{ stats.content_blocks }}</dd>
+    </div>
+    <div>
+      <dt>Extracted Tables</dt>
+      <dd>{{ stats.tables }}</dd>
+    </div>
+    <div>
+      <dt>Image Records</dt>
+      <dd>{{ stats.images }}</dd>
+    </div>
+  </dl>
+</section>
+
+<section>
+  <h2>Knowledge Sections</h2>
+  <div class="category-grid">
+    {% for category in catalog.categories %}
+      <a class="category-card" href="{{ category.url }}">
+        <span>{{ category.title }}</span>
+        <strong>{{ category.page_count }} pages</strong>
+      </a>
+    {% endfor %}
+  </div>
+</section>
+{% endblock %}

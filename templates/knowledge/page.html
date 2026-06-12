@@ -1,0 +1,110 @@
+{% extends "knowledge/base.html" %}
+
+{% block title %}{{ page.title }} | npgcDataHub{% endblock %}
+
+{% block content %}
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  {% for item in page.breadcrumb %}
+    {% if not forloop.last %}
+      <a href="{{ item.url }}">{{ item.title }}</a>
+    {% else %}
+      <span>{{ item.title }}</span>
+    {% endif %}
+  {% endfor %}
+</nav>
+
+<article class="knowledge-page">
+  <aside class="metadata" aria-label="Page metadata">
+    <h2>Metadata</h2>
+    <dl>
+      <dt>Title</dt>
+      <dd>{{ page.title }}</dd>
+      <dt>Category</dt>
+      <dd>{{ page.category }}</dd>
+      <dt>Keywords</dt>
+      <dd>{{ page.keywords|join:", " }}</dd>
+      <dt>Local Data Loaded</dt>
+      <dd>{{ page.content_blocks|length }} text blocks, {{ page.tables|length }} tables, {{ page.images|length }} images</dd>
+    </dl>
+  </aside>
+
+  <div class="content">
+    <p class="eyebrow">{{ page.category }}</p>
+    <h1>{{ page.title }}</h1>
+
+    {% if page.content_blocks or page.tables or page.content %}
+      <section>
+        <h2>Extracted Page Data</h2>
+        {% for block in page.content_blocks %}
+          {% if block.type == "h1" %}
+            <h2>{{ block.text }}</h2>
+          {% elif block.type == "h2" or block.type == "h3" or block.type == "h4" %}
+            <h3>{{ block.text }}</h3>
+          {% elif block.type == "li" %}
+            <p class="list-text">{{ block.text }}</p>
+          {% else %}
+            <p>{{ block.text }}</p>
+          {% endif %}
+        {% endfor %}
+
+        {% if not page.content_blocks and page.content %}
+          <p>{{ page.content|linebreaksbr }}</p>
+        {% endif %}
+
+        {% for table in page.tables %}
+          <div class="table-wrap">
+            <table>
+              {% if table.headers %}
+                <thead>
+                  <tr>
+                    {% for header in table.headers %}
+                      <th>{{ header }}</th>
+                    {% endfor %}
+                  </tr>
+                </thead>
+              {% endif %}
+              <tbody>
+                {% for row in table.rows %}
+                  <tr>
+                    {% for cell in row %}
+                      <td>{{ cell }}</td>
+                    {% endfor %}
+                  </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        {% endfor %}
+      </section>
+    {% endif %}
+
+    {% if page.images %}
+      <section>
+        <h2>Extracted Images</h2>
+        <div class="image-grid">
+          {% for image in page.images %}
+            <figure>
+              <img src="{{ image.local_url|default:image.src }}" alt="{{ image.alt|default:page.title }}">
+              <figcaption>{{ page.title }}</figcaption>
+            </figure>
+          {% endfor %}
+        </div>
+      </section>
+    {% endif %}
+
+    <section>
+      <h2>FAQs</h2>
+      {% if page.faq %}
+        {% for item in page.faq %}
+          <div class="faq-item">
+            <h3>Q: {{ item.question }}</h3>
+            <p>A: {{ item.answer }}</p>
+          </div>
+        {% endfor %}
+      {% else %}
+        <p>No explicit FAQ entries have been extracted for this page yet.</p>
+      {% endif %}
+    </section>
+  </div>
+</article>
+{% endblock %}

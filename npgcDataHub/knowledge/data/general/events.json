@@ -1,0 +1,656 @@
+{
+  "path": "/general/events/",
+  "source_url": "https://www.npgc.in/events.aspx",
+  "title": "Events",
+  "category": "General Information",
+  "page_category": "general",
+  "keywords": [
+    "Events",
+    "General Information",
+    "NPGC",
+    "National Post Graduate College"
+  ],
+  "last_updated": "",
+  "breadcrumb": [
+    {
+      "title": "Home",
+      "url": "/"
+    },
+    {
+      "title": "General Information",
+      "url": "/general/"
+    },
+    {
+      "title": "Events",
+      "url": "/general/events/"
+    }
+  ],
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Events"
+    },
+    {
+      "level": "h3",
+      "text": "Elevate Job Fair - 2026"
+    },
+    {
+      "level": "h3",
+      "text": "Ph.D. Orientation Programme"
+    },
+    {
+      "level": "h3",
+      "text": "Educational Visit to C.B. Gupta Krishi Mahavidyalaya"
+    },
+    {
+      "level": "h3",
+      "text": "World Wildlife Day"
+    },
+    {
+      "level": "h3",
+      "text": "Day-6 ATAL-FDP (30th September to 05th October,2024)"
+    },
+    {
+      "level": "h3",
+      "text": "Day-5 ATAL-FDP (30th September to 05th October,2024)"
+    },
+    {
+      "level": "h3",
+      "text": "Day-4 ATAL-FDP (30th September to 05th October, 2024)"
+    },
+    {
+      "level": "h3",
+      "text": "Day-3 ATAL-FDP (30th September to 05th October,2024)"
+    },
+    {
+      "level": "h3",
+      "text": "Day-2 ATAL-FDP (30th September to 05th October,2024)"
+    },
+    {
+      "level": "h3",
+      "text": "DAY-1 ATAL-FDP (30th September to 05th October, 2024)"
+    },
+    {
+      "level": "h3",
+      "text": "Alumni Meet 2024"
+    },
+    {
+      "level": "h3",
+      "text": "OAJ - 2024"
+    },
+    {
+      "level": "h3",
+      "text": "MERAKI - 2024"
+    },
+    {
+      "level": "h3",
+      "text": "Latest Talent Hunt - 02"
+    },
+    {
+      "level": "h3",
+      "text": "TechFest 3.0"
+    },
+    {
+      "level": "h3",
+      "text": "Pre-Placement Week 2023"
+    },
+    {
+      "level": "h3",
+      "text": "Language Exchange Program"
+    },
+    {
+      "level": "h3",
+      "text": "Unity Run"
+    },
+    {
+      "level": "h3",
+      "text": "Workshop on Financial Inclusion"
+    },
+    {
+      "level": "h3",
+      "text": "Pre-Placement Week 2022"
+    },
+    {
+      "level": "h3",
+      "text": "Notice for Bag Responsibility in Exams"
+    },
+    {
+      "level": "h3",
+      "text": "Rangoli Competition"
+    },
+    {
+      "level": "h3",
+      "text": "Mission Shakti - Nirbhaya Diwas"
+    },
+    {
+      "level": "h3",
+      "text": "Workshop organised by Department of Hindi"
+    },
+    {
+      "level": "h3",
+      "text": "Health Check-up Camp"
+    },
+    {
+      "level": "h3",
+      "text": "Blood Donation Camp"
+    },
+    {
+      "level": "h3",
+      "text": "Mission Shakti"
+    },
+    {
+      "level": "h3",
+      "text": "U.P. B.Ed Entrance Examination 2020 - Successfully Conducted"
+    },
+    {
+      "level": "h3",
+      "text": "U.P. B.Ed Entrance Examination 2020 - Preparation"
+    },
+    {
+      "level": "h3",
+      "text": "International Seminar on Cross Cultural Communication: Literature and Identity"
+    },
+    {
+      "level": "h3",
+      "text": "Football Tournament and Chess Tournament"
+    },
+    {
+      "level": "h3",
+      "text": "AZADI - 2019"
+    },
+    {
+      "level": "h3",
+      "text": "ECO FRIENDLY TRANSPORT : LUCKNOW METRO"
+    },
+    {
+      "level": "h3",
+      "text": "COMFEST-2019"
+    },
+    {
+      "level": "h3",
+      "text": "Workshop on Protection of Child Rights in India"
+    },
+    {
+      "level": "h3",
+      "text": "Balika Suraksha Jagrukta Abhiyan"
+    },
+    {
+      "level": "h3",
+      "text": "SAMARTH YUVA PARVA"
+    },
+    {
+      "level": "h3",
+      "text": "Innovative Techniques of Water Conservation for 21st Century"
+    },
+    {
+      "level": "h3",
+      "text": "Pre-Placement Orientation Programme - 2018"
+    },
+    {
+      "level": "h3",
+      "text": "Inquizitive Minds Quiz"
+    },
+    {
+      "level": "h3",
+      "text": "Lecture on \"Innovations in Technology and Career Building\""
+    },
+    {
+      "level": "h3",
+      "text": "Software Hub : A Creative Fest 2018"
+    },
+    {
+      "level": "h3",
+      "text": "Interactive Session with Shri Narendra Modi - Making Exam Fun"
+    },
+    {
+      "level": "h3",
+      "text": "Special Lecture on \"Statistics : Prospects & Challenges\""
+    },
+    {
+      "level": "h3",
+      "text": "Poster Competition"
+    },
+    {
+      "level": "h3",
+      "text": "Teacher's Day"
+    },
+    {
+      "level": "h3",
+      "text": "The River Rally (A Human Chain)"
+    },
+    {
+      "level": "h3",
+      "text": "Blood Donation Camp"
+    },
+    {
+      "level": "h3",
+      "text": "National Seminar by Study Centre"
+    },
+    {
+      "level": "h3",
+      "text": "Medha Samman"
+    },
+    {
+      "level": "h3",
+      "text": "Two days National Seminar by Department of Geography"
+    },
+    {
+      "level": "h3",
+      "text": "Special Lecture on Skill of Decision Making by experts from Amrut Mody School of Management"
+    },
+    {
+      "level": "h3",
+      "text": "Special Lecture by Robin Oberg"
+    },
+    {
+      "level": "h3",
+      "text": "चिंतन दिवस"
+    },
+    {
+      "level": "h3",
+      "text": "Oath Ceremony on Votor\\'s Day"
+    },
+    {
+      "level": "h3",
+      "text": "एक दिवसीय कार्यशाला - प्रयोजन मूलक हिंदी एवं रोजगार की सम्भावनाये"
+    },
+    {
+      "level": "h3",
+      "text": "मातृभूमि की पुकार"
+    },
+    {
+      "level": "h3",
+      "text": "Inter College Debate Competition"
+    },
+    {
+      "level": "h3",
+      "text": "Cancer Awareness Program"
+    },
+    {
+      "level": "h3",
+      "text": "Debate Competition on Corruption"
+    },
+    {
+      "level": "h3",
+      "text": "Annual Sports Day"
+    },
+    {
+      "level": "h3",
+      "text": "Motivational Lecture on Memory Management"
+    },
+    {
+      "level": "h3",
+      "text": "National Seminar on Gandhi Today"
+    },
+    {
+      "level": "h3",
+      "text": "Anti Tabcoo Programme"
+    },
+    {
+      "level": "h3",
+      "text": "Prize Distribution & Introduction Class of Civil Services Preparation"
+    },
+    {
+      "level": "h3",
+      "text": "Flag March"
+    },
+    {
+      "level": "h3",
+      "text": "IGNOU Coordinators Meet"
+    },
+    {
+      "level": "h3",
+      "text": "Orientation Programme"
+    },
+    {
+      "level": "h3",
+      "text": "Felicitation Programme for Campus Placed Students"
+    },
+    {
+      "level": "h3",
+      "text": "Medha Samman"
+    },
+    {
+      "level": "h3",
+      "text": "International Workshop Organised by Psychology Department"
+    },
+    {
+      "level": "h3",
+      "text": "Inaugural of College News Letter"
+    },
+    {
+      "level": "h3",
+      "text": "Seven Day Workshop on Emerging Technology"
+    },
+    {
+      "level": "h3",
+      "text": "National Seminar on Role of Analytical Techniques in Advanced Scientific Research"
+    },
+    {
+      "level": "h3",
+      "text": "One Day Workshop under Kaushal Scheme"
+    },
+    {
+      "level": "h3",
+      "text": "Spectrum - 2016"
+    },
+    {
+      "level": "h3",
+      "text": "One Day Sensitization Programme on Misuse of Social Media Networking"
+    },
+    {
+      "level": "h3",
+      "text": "Academic Calendar"
+    },
+    {
+      "level": "h3",
+      "text": "About"
+    },
+    {
+      "level": "h3",
+      "text": "Quick Links"
+    },
+    {
+      "level": "h3",
+      "text": "External Links"
+    },
+    {
+      "level": "h3",
+      "text": "Contact Us"
+    }
+  ],
+  "overview": "This page stores NPGC general information information for Events. Captured source headings include: Events, Elevate Job Fair - 2026, Ph.D. Orientation Programme, Educational Visit to C.B. Gupta Krishi Mahavidyalaya. Source page: https://www.npgc.in/events.aspx",
+  "content": "May 26 Elevate Job Fair - 2026 10:00 AM College Audi - I 24 Industry Leaders & Recruiters on campus\nDec 29 Ph.D. Orientation Programme 01:00 PM Meeting Room\nMar 11 Educational Visit to C.B. Gupta Krishi Mahavidyalaya 10:00 AM C.B. Gupta Krishi Mahavidyalaya, BKT (Lucknow) Educational visit to C.B. Gupta Krishi Mahavidyalaya, BKT (Lucknow) on March 11, 2025, jointly organized by Department of Zoology and Botany (NPGC)\nMar 3 World Wildlife Day 10:00 AM Lucknow Zoo On the occasion of 'World Wildlife Day' (March 03, 2025), faculties and students of B.Sc. Zoology and Botany visited Lucknow Zoo in order to get and spread awareness about Wildlife Conservation.\nOct 5 Day-6 ATAL-FDP (30th September to 05th October,2024) 10:00 AM College Auditorium Day 6 - ATAL - Faculty Development Program\nOct 4 Day-5 ATAL-FDP (30th September to 05th October,2024) 10:00 AM College Auditorium Day 5 - ATAL - Faculty Development Program\nOct 3 Day-4 ATAL-FDP (30th September to 05th October, 2024) 10:00 AM College Auditorium Day 4 - ATAL - Faculty Development Program\nOct 2 Day-3 ATAL-FDP (30th September to 05th October,2024) 10:00 AM College Auditorium Day 3 - ATAL - Faculty Development Program\nOct 1 Day-2 ATAL-FDP (30th September to 05th October,2024) 10:00 AM College Auditorium Day 2 - ATAL - FDP\nSep 30 DAY-1 ATAL-FDP (30th September to 05th October, 2024) 10:00 AM College Auditorium Day 1 - ATAL - FDP\nMar 23 Alumni Meet 2024 10:00 AM College Campus\nMar 21 OAJ - 2024 10:00 AM College Audi - I\nMar 1 MERAKI - 2024 10:00 am College Audi - I Meraki - The Media Fest\nFeb 28 Latest Talent Hunt - 02 11:000 AM College Audi - I\nFeb 27 TechFest 3.0 10:00 Am College Audi - I TechFest\nSep 23 Pre-Placement Week 2023 11:000 AM College Audi - I Pre-Placement Week 2023\nOct 31 Language Exchange Program 10:00 am Audi - II Language exchange program with London (UK) Hindi Samiti by Department of English, National P.G. College\nOct 31 Unity Run 09:00 AM Lucknow The volunteers of National Service Scheme, National P. G. College,Lucknow participated in Unity Run on the occasion of Sardar Vallabhbhai Patel Birth Anniversary and National Unity Day 2022 under the supervision of Dr. Pranati Mishra, Assistant Professor, Commerce and NSS program officer.\nOct 20 Workshop on Financial Inclusion 11:00 AM College Audi - I Workshop on Financial Inclusion in association with RBI (20 – 21 October 2022) organised by Department of Banking & Finance, DDUKK\nSep 9 Pre-Placement Week 2022 11:00 AM College Pre-Placement week - 2022 from 9th Sept to 15th Sept\nFeb 12 Notice for Bag Responsibility in Exams 08:00 a.m. College Campus\nDec 23 Rangoli Competition 11:00 am College Campus नेशनल पी.जी.कॉलेज में आजादी के अमृत महोत्सव के अंतर्गत दिनांक 23 दिसंबर 2021 को प्राचार्य प्रोफेसर डॉक्टर देवेंद्र कुमार सिंह की अध्यक्षता में राष्ट्रीय सेवा योजना के कार्यक्रम अधिकारी डॉ श्वेता सिन्हा, डॉ अर्चना सिंह एवं डॉ रीना श्रीवास्तव के नेतृत्व में रंगोली प्रतियोगिता का आयोजन किया गया l प्रतियोगिता का मूल्यांकन महाविद्यालय के वरिष्ठ प्राध्यापकों डॉ भानु शंकर, डॉक्टर ज्योति भार्गव तथा डॉ ऋतु जैन द्वारा किया गया l\nDec 16 Mission Shakti - Nirbhaya Diwas 11:00 am College Campus आज दिनांक 16.12.21 को नेशनल पी जी कॉलेज लखनऊ में मिशन शक्ति के अंतर्गत निर्भया दिवस मनाया गया। बच्चो ने प्रेरित करने वाले पोस्टर्स बनाये।साथ ही छात्राओ की दौड़ प्रतियोगिता भी कराई गई\nDec 16 Workshop organised by Department of Hindi 01:00 p.m. Audi-II Subject: Indian Administration Service and Hindi\nDec 15 Health Check-up Camp 11:00 am Audi-I National P.G. College,Lucknow in association with Lions Club, Lucknow and Apollo Hospitals, Lucknow organized Free Health Check Up Camp in the campus on date 15.12.2021.\nDec 15 Blood Donation Camp 11:00 am Audi-I National P.G. College,Lucknow in association with Lions Club, Lucknow and KGMU organized Blood Donation camp in the campus on date 15.12.2021.\nDec 11 Mission Shakti 01:00 PM - Mission shakti activity held in college on 10th Dec 2021 and 11th Dec 2021\nAug 9 U.P. B.Ed Entrance Examination 2020 - Successfully Conducted - College Campus\nAug 8 U.P. B.Ed Entrance Examination 2020 - Preparation - College Campus\nFeb 17 International Seminar on Cross Cultural Communication: Literature and Identity 09:00 AM College Audi - II & College Audi - III International Seminar on Cross Cultural Communication: Literature and Identity organised by Department of English in Collaboration with Expressions in Languages and Arts Foundation Keynote Speaker : Mr. Tenzin Tsundue (Internationally Acclaimed Tibetan Writer)\nOct 11 Football Tournament and Chess Tournament 12/10/2019 Auditorium 1\nAug 15 AZADI - 2019 09:00 AM AUDITORIUM 1\nAug 6 ECO FRIENDLY TRANSPORT : LUCKNOW METRO 12:00 NOON Auditorium 1\nJul 27 COMFEST-2019 11:00 A.M. Auditorium 1\nJul 10 Workshop on Protection of Child Rights in India 11:00 a.m. Auditorium 1\nJul 1 Balika Suraksha Jagrukta Abhiyan 31.07.2019 Auditorium 1\nFeb 7 SAMARTH YUVA PARVA 01:00 PM College Audi - II\nSep 29 Innovative Techniques of Water Conservation for 21st Century 10:00 AM College Audi - I Innovative Techniques of Water Conservation for 21st Century organised by National P.G. College and Bharat Vikas Sangh\nSep 18 Pre-Placement Orientation Programme - 2018 12:00 noon College Audi -I\nSep 4 Inquizitive Minds Quiz 12:00 noon College Audi -I Career Launcher & National P.G. College Present Inquizitive Minds Quiz on 04th Sept 2018 for Undergraduate Students only\nSep 1 Lecture on \"Innovations in Technology and Career Building\" 12:00 noon College Audi -II Department of computer science organised a lecture on \"Innovations in Technology and Career Building\" under Advance Diploma in Computer Application by Dr. Satyendra Kumar Singh & Dr. Sanchita Ghatak, Associate Professor, Department of Computer Science, Amity School of Engineering & Technology, Lucknow\nAug 28 Software Hub : A Creative Fest 2018 10:00 AM College Audi -III Art & Craft Exhibition organised by Department of Deen Dayal Upadhyay Kaushal Kendra, National P.G. College,\nFeb 16 Interactive Session with Shri Narendra Modi - Making Exam Fun 12:00 Noon College Audi - II\nFeb 16 Special Lecture on \"Statistics : Prospects & Challenges\" 01:00 pm College Audi - III Special Lecture on \"Statistics : Prospects & Challenges\" by Dr. Shashi Bhushan, Associate Professor & Head Department of Mathematics & Statistics, Dr. Shakuntala Misra National Rehabilitation University, Lucknow organised by Department of Statistics, National P.G. College\nSep 12 Poster Competition 12:00 AM College Campus\nSep 5 Teacher's Day 11:00 AM College Audi - II\nSep 1 The River Rally (A Human Chain) 10:00 AM . The River Rally (A Human Chain) formed by NSS Students of National P.G. College under Nadi Abhiyan Bharat Ka Kalyan Abhiyan\nAug 26 Blood Donation Camp 10:00 AM College Audi - I Blood Donation Camp organised by Lions Club Lucknow, NSS Unit of the College jointly\nApr 14 National Seminar by Study Centre 10:30 am College Audi - II National Seminar on \"Dr. Ambedkar's Contribution towards the building of New India\" organised by UGC sponsored Ambedkar Study Centre\nApr 10 Medha Samman 10:30 am College Audi - I\nMar 28 Two days National Seminar by Department of Geography 10:00 am College Audi - I National Seminar on Changing Patterns of Electoral Performance in India with Special Reference to Uttar Pradesh Organised by Department of Geography\nMar 22 Special Lecture on Skill of Decision Making by experts from Amrut Mody School of Management 01:00 pm College Audi - III\nFeb 25 Special Lecture by Robin Oberg 12:00 noon Anthropology Lab Special Lecture by Robin Oberg, Media Analyst & Ethnographer at Prime Research Oxfordshire, United Kingdom, Organised by Department of Anthropology, National P.G. College\nFeb 22 चिंतन दिवस 11:00 am College Audi - II चिंतन दिवस - सर्व धर्म प्रार्थना सभा एवं क्विज प्रतियोगिता आयोजक : भारत स्काउट - गाइड (रोवर्स / रंजेर्स) इकाई\nJan 25 Oath Ceremony on Votor\\'s Day 11:00 am College Ground Oath ceremony on Votor\\'s day\nJan 21 एक दिवसीय कार्यशाला - प्रयोजन मूलक हिंदी एवं रोजगार की सम्भावनाये 12:00 NOON Audi - II एक दिवसीय कार्यशाला विषय : प्रयोजन मूलक हिंदी एवं रोजगार की सम्भावनाये, आयोजक : हिंदी विभाग\nJan 11 मातृभूमि की पुकार 12:00 noon College\nJan 10 Inter College Debate Competition 11:00 am College Audi - II Inter College Debate Competition organised by Sanskritiki University of Lucknow & National P.G. College\nNov 9 Cancer Awareness Program 01:00pm College Audi - II Cancer Awarness Programme by Lucknow Cancer Institute, Jiamou Lucknow, Organised by The International Association of Lions Clubs in Association with National P.G. College, Under National Service Scheme\nNov 4 Debate Competition on Corruption 10:00am College Audi -I\nOct 15 Annual Sports Day 08:00am - 05:00pm College Play Ground\nOct 4 Motivational Lecture on Memory Management 03:00pm College Audi - I\nOct 2 National Seminar on Gandhi Today 10:00am Seminal Hall National Seminar on 147th Birth Anniversary of Mahatma Gandhi on Topic Gandhi Today\nAug 31 Anti Tabcoo Programme 12:00 noon College Ground\nAug 27 Prize Distribution & Introduction Class of Civil Services Preparation 11:00am College Audi - II\nAug 22 Flag March 11:00am\nAug 14 IGNOU Coordinators Meet 11:00am College Audi - II\nJul 4 Orientation Programme 10:00am College Audi - I\nApr 30 Felicitation Programme for Campus Placed Students 11:00am College Audi - II\nApr 16 Medha Samman 11:00am College Audi - I\nApr 10 International Workshop Organised by Psychology Department 11:00am College Audi - II\nMar 23 Inaugural of College News Letter 01:00pm College Audi - II\nMar 21 Seven Day Workshop on Emerging Technology 10:00am - 05:00pm College Audi - III Organised by IT Department, Deen Dayal Upadhyay Kaushal Kendra\nMar 19 National Seminar on Role of Analytical Techniques in Advanced Scientific Research 10:00am College Audi - 1 National Seminar on Role of Analytical Techniques in Advanced Scientific Research organised by Department of Chemistry\nMar 5 One Day Workshop under Kaushal Scheme 01:00pm - 03:00pm College Audi - I One Day Workshop under Kaushal Scheme on Entrepreneurship-as a Career Option By Prof. Kavita Gupta, EDI, Gandhi Nagar\nJan 26 Spectrum - 2016 08:00am - 01:00pm College Audi - I On Occassion of Republic Day\nJan 17 One Day Sensitization Programme on Misuse of Social Media Networking 11:00am - 01:30pm College Audi - II Organised by Psychology Department",
+  "tables": [
+    {
+      "headers": [
+        "May 26 Elevate Job Fair - 2026 10:00 AM College Audi - I 24 Industry Leaders & Recruiters on campus"
+      ],
+      "rows": [
+        [
+          "Dec 29 Ph.D. Orientation Programme 01:00 PM Meeting Room"
+        ],
+        [
+          "Mar 11 Educational Visit to C.B. Gupta Krishi Mahavidyalaya 10:00 AM C.B. Gupta Krishi Mahavidyalaya, BKT (Lucknow) Educational visit to C.B. Gupta Krishi Mahavidyalaya, BKT (Lucknow) on March 11, 2025, jointly organized by Department of Zoology and Botany (NPGC)"
+        ],
+        [
+          "Mar 3 World Wildlife Day 10:00 AM Lucknow Zoo On the occasion of 'World Wildlife Day' (March 03, 2025), faculties and students of B.Sc. Zoology and Botany visited Lucknow Zoo in order to get and spread awareness about Wildlife Conservation."
+        ],
+        [
+          "Oct 5 Day-6 ATAL-FDP (30th September to 05th October,2024) 10:00 AM College Auditorium Day 6 - ATAL - Faculty Development Program"
+        ],
+        [
+          "Oct 4 Day-5 ATAL-FDP (30th September to 05th October,2024) 10:00 AM College Auditorium Day 5 - ATAL - Faculty Development Program"
+        ],
+        [
+          "Oct 3 Day-4 ATAL-FDP (30th September to 05th October, 2024) 10:00 AM College Auditorium Day 4 - ATAL - Faculty Development Program"
+        ],
+        [
+          "Oct 2 Day-3 ATAL-FDP (30th September to 05th October,2024) 10:00 AM College Auditorium Day 3 - ATAL - Faculty Development Program"
+        ],
+        [
+          "Oct 1 Day-2 ATAL-FDP (30th September to 05th October,2024) 10:00 AM College Auditorium Day 2 - ATAL - FDP"
+        ],
+        [
+          "Sep 30 DAY-1 ATAL-FDP (30th September to 05th October, 2024) 10:00 AM College Auditorium Day 1 - ATAL - FDP"
+        ],
+        [
+          "Mar 23 Alumni Meet 2024 10:00 AM College Campus"
+        ],
+        [
+          "Mar 21 OAJ - 2024 10:00 AM College Audi - I"
+        ],
+        [
+          "Mar 1 MERAKI - 2024 10:00 am College Audi - I Meraki - The Media Fest"
+        ],
+        [
+          "Feb 28 Latest Talent Hunt - 02 11:000 AM College Audi - I"
+        ],
+        [
+          "Feb 27 TechFest 3.0 10:00 Am College Audi - I TechFest"
+        ],
+        [
+          "Sep 23 Pre-Placement Week 2023 11:000 AM College Audi - I Pre-Placement Week 2023"
+        ],
+        [
+          "Oct 31 Language Exchange Program 10:00 am Audi - II Language exchange program with London (UK) Hindi Samiti by Department of English, National P.G. College"
+        ],
+        [
+          "Oct 31 Unity Run 09:00 AM Lucknow The volunteers of National Service Scheme, National P. G. College,Lucknow participated in Unity Run on the occasion of Sardar Vallabhbhai Patel Birth Anniversary and National Unity Day 2022 under the supervision of Dr. Pranati Mishra, Assistant Professor, Commerce and NSS program officer."
+        ],
+        [
+          "Oct 20 Workshop on Financial Inclusion 11:00 AM College Audi - I Workshop on Financial Inclusion in association with RBI (20 – 21 October 2022) organised by Department of Banking & Finance, DDUKK"
+        ],
+        [
+          "Sep 9 Pre-Placement Week 2022 11:00 AM College Pre-Placement week - 2022 from 9th Sept to 15th Sept"
+        ],
+        [
+          "Feb 12 Notice for Bag Responsibility in Exams 08:00 a.m. College Campus"
+        ],
+        [
+          "Dec 23 Rangoli Competition 11:00 am College Campus नेशनल पी.जी.कॉलेज में आजादी के अमृत महोत्सव के अंतर्गत दिनांक 23 दिसंबर 2021 को प्राचार्य प्रोफेसर डॉक्टर देवेंद्र कुमार सिंह की अध्यक्षता में राष्ट्रीय सेवा योजना के कार्यक्रम अधिकारी डॉ श्वेता सिन्हा, डॉ अर्चना सिंह एवं डॉ रीना श्रीवास्तव के नेतृत्व में रंगोली प्रतियोगिता का आयोजन किया गया l प्रतियोगिता का मूल्यांकन महाविद्यालय के वरिष्ठ प्राध्यापकों डॉ भानु शंकर, डॉक्टर ज्योति भार्गव तथा डॉ ऋतु जैन द्वारा किया गया l"
+        ],
+        [
+          "Dec 16 Mission Shakti - Nirbhaya Diwas 11:00 am College Campus आज दिनांक 16.12.21 को नेशनल पी जी कॉलेज लखनऊ में मिशन शक्ति के अंतर्गत निर्भया दिवस मनाया गया। बच्चो ने प्रेरित करने वाले पोस्टर्स बनाये।साथ ही छात्राओ की दौड़ प्रतियोगिता भी कराई गई"
+        ],
+        [
+          "Dec 16 Workshop organised by Department of Hindi 01:00 p.m. Audi-II Subject: Indian Administration Service and Hindi"
+        ],
+        [
+          "Dec 15 Health Check-up Camp 11:00 am Audi-I National P.G. College,Lucknow in association with Lions Club, Lucknow and Apollo Hospitals, Lucknow organized Free Health Check Up Camp in the campus on date 15.12.2021."
+        ],
+        [
+          "Dec 15 Blood Donation Camp 11:00 am Audi-I National P.G. College,Lucknow in association with Lions Club, Lucknow and KGMU organized Blood Donation camp in the campus on date 15.12.2021."
+        ],
+        [
+          "Dec 11 Mission Shakti 01:00 PM - Mission shakti activity held in college on 10th Dec 2021 and 11th Dec 2021"
+        ],
+        [
+          "Aug 9 U.P. B.Ed Entrance Examination 2020 - Successfully Conducted - College Campus"
+        ],
+        [
+          "Aug 8 U.P. B.Ed Entrance Examination 2020 - Preparation - College Campus"
+        ],
+        [
+          "Feb 17 International Seminar on Cross Cultural Communication: Literature and Identity 09:00 AM College Audi - II & College Audi - III International Seminar on Cross Cultural Communication: Literature and Identity organised by Department of English in Collaboration with Expressions in Languages and Arts Foundation Keynote Speaker : Mr. Tenzin Tsundue (Internationally Acclaimed Tibetan Writer)"
+        ],
+        [
+          "Oct 11 Football Tournament and Chess Tournament 12/10/2019 Auditorium 1"
+        ],
+        [
+          "Aug 15 AZADI - 2019 09:00 AM AUDITORIUM 1"
+        ],
+        [
+          "Aug 6 ECO FRIENDLY TRANSPORT : LUCKNOW METRO 12:00 NOON Auditorium 1"
+        ],
+        [
+          "Jul 27 COMFEST-2019 11:00 A.M. Auditorium 1"
+        ],
+        [
+          "Jul 10 Workshop on Protection of Child Rights in India 11:00 a.m. Auditorium 1"
+        ],
+        [
+          "Jul 1 Balika Suraksha Jagrukta Abhiyan 31.07.2019 Auditorium 1"
+        ],
+        [
+          "Feb 7 SAMARTH YUVA PARVA 01:00 PM College Audi - II"
+        ],
+        [
+          "Sep 29 Innovative Techniques of Water Conservation for 21st Century 10:00 AM College Audi - I Innovative Techniques of Water Conservation for 21st Century organised by National P.G. College and Bharat Vikas Sangh"
+        ],
+        [
+          "Sep 18 Pre-Placement Orientation Programme - 2018 12:00 noon College Audi -I"
+        ],
+        [
+          "Sep 4 Inquizitive Minds Quiz 12:00 noon College Audi -I Career Launcher & National P.G. College Present Inquizitive Minds Quiz on 04th Sept 2018 for Undergraduate Students only"
+        ],
+        [
+          "Sep 1 Lecture on \"Innovations in Technology and Career Building\" 12:00 noon College Audi -II Department of computer science organised a lecture on \"Innovations in Technology and Career Building\" under Advance Diploma in Computer Application by Dr. Satyendra Kumar Singh & Dr. Sanchita Ghatak, Associate Professor, Department of Computer Science, Amity School of Engineering & Technology, Lucknow"
+        ],
+        [
+          "Aug 28 Software Hub : A Creative Fest 2018 10:00 AM College Audi -III Art & Craft Exhibition organised by Department of Deen Dayal Upadhyay Kaushal Kendra, National P.G. College,"
+        ],
+        [
+          "Feb 16 Interactive Session with Shri Narendra Modi - Making Exam Fun 12:00 Noon College Audi - II"
+        ],
+        [
+          "Feb 16 Special Lecture on \"Statistics : Prospects & Challenges\" 01:00 pm College Audi - III Special Lecture on \"Statistics : Prospects & Challenges\" by Dr. Shashi Bhushan, Associate Professor & Head Department of Mathematics & Statistics, Dr. Shakuntala Misra National Rehabilitation University, Lucknow organised by Department of Statistics, National P.G. College"
+        ],
+        [
+          "Sep 12 Poster Competition 12:00 AM College Campus"
+        ],
+        [
+          "Sep 5 Teacher's Day 11:00 AM College Audi - II"
+        ],
+        [
+          "Sep 1 The River Rally (A Human Chain) 10:00 AM . The River Rally (A Human Chain) formed by NSS Students of National P.G. College under Nadi Abhiyan Bharat Ka Kalyan Abhiyan"
+        ],
+        [
+          "Aug 26 Blood Donation Camp 10:00 AM College Audi - I Blood Donation Camp organised by Lions Club Lucknow, NSS Unit of the College jointly"
+        ],
+        [
+          "Apr 14 National Seminar by Study Centre 10:30 am College Audi - II National Seminar on \"Dr. Ambedkar's Contribution towards the building of New India\" organised by UGC sponsored Ambedkar Study Centre"
+        ],
+        [
+          "Apr 10 Medha Samman 10:30 am College Audi - I"
+        ],
+        [
+          "Mar 28 Two days National Seminar by Department of Geography 10:00 am College Audi - I National Seminar on Changing Patterns of Electoral Performance in India with Special Reference to Uttar Pradesh Organised by Department of Geography"
+        ],
+        [
+          "Mar 22 Special Lecture on Skill of Decision Making by experts from Amrut Mody School of Management 01:00 pm College Audi - III"
+        ],
+        [
+          "Feb 25 Special Lecture by Robin Oberg 12:00 noon Anthropology Lab Special Lecture by Robin Oberg, Media Analyst & Ethnographer at Prime Research Oxfordshire, United Kingdom, Organised by Department of Anthropology, National P.G. College"
+        ],
+        [
+          "Feb 22 चिंतन दिवस 11:00 am College Audi - II चिंतन दिवस - सर्व धर्म प्रार्थना सभा एवं क्विज प्रतियोगिता आयोजक : भारत स्काउट - गाइड (रोवर्स / रंजेर्स) इकाई"
+        ],
+        [
+          "Jan 25 Oath Ceremony on Votor\\'s Day 11:00 am College Ground Oath ceremony on Votor\\'s day"
+        ],
+        [
+          "Jan 21 एक दिवसीय कार्यशाला - प्रयोजन मूलक हिंदी एवं रोजगार की सम्भावनाये 12:00 NOON Audi - II एक दिवसीय कार्यशाला विषय : प्रयोजन मूलक हिंदी एवं रोजगार की सम्भावनाये, आयोजक : हिंदी विभाग"
+        ],
+        [
+          "Jan 11 मातृभूमि की पुकार 12:00 noon College"
+        ],
+        [
+          "Jan 10 Inter College Debate Competition 11:00 am College Audi - II Inter College Debate Competition organised by Sanskritiki University of Lucknow & National P.G. College"
+        ],
+        [
+          "Nov 9 Cancer Awareness Program 01:00pm College Audi - II Cancer Awarness Programme by Lucknow Cancer Institute, Jiamou Lucknow, Organised by The International Association of Lions Clubs in Association with National P.G. College, Under National Service Scheme"
+        ],
+        [
+          "Nov 4 Debate Competition on Corruption 10:00am College Audi -I"
+        ],
+        [
+          "Oct 15 Annual Sports Day 08:00am - 05:00pm College Play Ground"
+        ],
+        [
+          "Oct 4 Motivational Lecture on Memory Management 03:00pm College Audi - I"
+        ],
+        [
+          "Oct 2 National Seminar on Gandhi Today 10:00am Seminal Hall National Seminar on 147th Birth Anniversary of Mahatma Gandhi on Topic Gandhi Today"
+        ],
+        [
+          "Aug 31 Anti Tabcoo Programme 12:00 noon College Ground"
+        ],
+        [
+          "Aug 27 Prize Distribution & Introduction Class of Civil Services Preparation 11:00am College Audi - II"
+        ],
+        [
+          "Aug 22 Flag March 11:00am"
+        ],
+        [
+          "Aug 14 IGNOU Coordinators Meet 11:00am College Audi - II"
+        ],
+        [
+          "Jul 4 Orientation Programme 10:00am College Audi - I"
+        ],
+        [
+          "Apr 30 Felicitation Programme for Campus Placed Students 11:00am College Audi - II"
+        ],
+        [
+          "Apr 16 Medha Samman 11:00am College Audi - I"
+        ],
+        [
+          "Apr 10 International Workshop Organised by Psychology Department 11:00am College Audi - II"
+        ],
+        [
+          "Mar 23 Inaugural of College News Letter 01:00pm College Audi - II"
+        ],
+        [
+          "Mar 21 Seven Day Workshop on Emerging Technology 10:00am - 05:00pm College Audi - III Organised by IT Department, Deen Dayal Upadhyay Kaushal Kendra"
+        ],
+        [
+          "Mar 19 National Seminar on Role of Analytical Techniques in Advanced Scientific Research 10:00am College Audi - 1 National Seminar on Role of Analytical Techniques in Advanced Scientific Research organised by Department of Chemistry"
+        ],
+        [
+          "Mar 5 One Day Workshop under Kaushal Scheme 01:00pm - 03:00pm College Audi - I One Day Workshop under Kaushal Scheme on Entrepreneurship-as a Career Option By Prof. Kavita Gupta, EDI, Gandhi Nagar"
+        ],
+        [
+          "Jan 26 Spectrum - 2016 08:00am - 01:00pm College Audi - I On Occassion of Republic Day"
+        ],
+        [
+          "Jan 17 One Day Sensitization Programme on Misuse of Social Media Networking 11:00am - 01:30pm College Audi - II Organised by Psychology Department"
+        ]
+      ]
+    }
+  ],
+  "faq": [],
+  "related_links": [
+    "https://www.npgc.in/About-AboutTheCollege.aspx",
+    "https://www.npgc.in/About-Achievements.aspx",
+    "https://www.npgc.in/About-Administration.aspx",
+    "https://www.npgc.in/About-AnnualReport.aspx",
+    "https://www.npgc.in/About-MissionVision.aspx",
+    "https://www.npgc.in/About-PrincipalDesk.aspx",
+    "https://www.npgc.in/Academics-AcademicCalendar.aspx",
+    "https://www.npgc.in/Academics-CVFS.aspx",
+    "https://www.npgc.in/Academics-CoursesCertification.aspx",
+    "https://www.npgc.in/Academics-CoursesDiploma.aspx",
+    "https://www.npgc.in/Academics-CoursesPG.aspx",
+    "https://www.npgc.in/Academics-CoursesUG.aspx",
+    "https://www.npgc.in/Academics-DLIgnou.aspx",
+    "https://www.npgc.in/Academics-Department.aspx",
+    "https://www.npgc.in/Academics-ExamAssesCBCS.aspx",
+    "https://www.npgc.in/Academics-Publications.aspx",
+    "https://www.npgc.in/Academics-Research.aspx",
+    "https://www.npgc.in/Academics-TimeTable.aspx",
+    "https://www.npgc.in/Admission-AdmissionSchedules.aspx",
+    "https://www.npgc.in/Admission-Eligibility.aspx",
+    "https://www.npgc.in/events.aspx"
+  ],
+  "source_assets": [
+    "https://www.npgc.in/assets/MiscPDF/AntiRaggingRegulations2016.pdf",
+    "https://www.npgc.in/assets/MiscPDF/POSHAct2013.pdf"
+  ],
+  "external_links": [
+    "http://admission.npgc.in/",
+    "http://exam.npgc.in/",
+    "http://nlist.inflibnet.ac.in/",
+    "http://result.npgc.in/",
+    "http://scholarship.up.nic.in/",
+    "http://www.employmentnews.gov.in/",
+    "http://www.ignou.ac.in/",
+    "http://www.lkouniv.ac.in/",
+    "http://www.naac.gov.in/",
+    "http://www.ugc.ac.in/",
+    "http://www.uprtou.ac.in/",
+    "https://antiragging.in/affidavit_registration_disclaimer.html",
+    "https://forms.gle/j7MPimLquQC4EKvQA",
+    "https://npgcij.com/",
+    "https://swayam.gov.in/",
+    "https://twitter.com/npgcin",
+    "https://www.facebook.com/npgcin/",
+    "https://www.instagram.com/npgcin",
+    "https://www.msde.gov.in/",
+    "https://www.ncs.gov.in/"
+  ],
+  "content_blocks": [],
+  "images": [],
+  "extraction_status": "ok",
+  "extraction_error": "",
+  "local_assets": []
+}

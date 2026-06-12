@@ -1,0 +1,33 @@
+{% extends "knowledge/base.html" %}
+
+{% block title %}{{ category.title }} | npgcDataHub{% endblock %}
+
+{% block content %}
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <a href="/">Home</a>
+  <span>{{ category.title }}</span>
+</nav>
+
+<section class="section-head">
+  <p class="eyebrow">Category</p>
+  <h1>{{ category.title }}</h1>
+  <p>{{ category.page_count }} structured pages loaded for this section.</p>
+</section>
+
+<section class="link-list">
+  {% for page in pages %}
+    <article class="list-row">
+      <h2><a href="{{ page.path }}">{{ page.title }}</a></h2>
+      <div class="data-badges" aria-label="Extracted local data summary">
+        {% if page.has_local_content %}
+          <span>{{ page.content_block_count }} text blocks</span>
+          <span>{{ page.table_count }} tables</span>
+          <span>{{ page.image_count }} images</span>
+        {% else %}
+          <span>No extracted body content</span>
+        {% endif %}
+      </div>
+    </article>
+  {% endfor %}
+</section>
+{% endblock %}
