@@ -1,5 +1,4 @@
 import json
-from functools import lru_cache
 from pathlib import Path
 
 from django.conf import settings
@@ -10,7 +9,6 @@ from django.shortcuts import render
 DATA_DIR = Path(settings.BASE_DIR) / "knowledge" / "data"
 
 
-@lru_cache(maxsize=1)
 def load_catalog():
     catalog_path = DATA_DIR / "catalog.json"
     if not catalog_path.exists():
