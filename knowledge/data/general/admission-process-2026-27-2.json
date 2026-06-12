@@ -119,8 +119,8 @@
     "https://innovateindia.mygov.in/nep/",
     "https://npgc.in/Admission-AdmissionSchedules.aspx",
     "https://npgc.in/Admission-Seats.aspx",
-    "https://npgc.in/assets/Admission/College.pdf?Valu=8a87ae80-1d85-4b63-a63d-6d8d6cfc1fa8",
-    "https://npgc.in/assets/Admission/Luacmat.pdf?Valu=25d96f56-d2e5-4fc9-aac5-86361274ccd1",
+    "https://npgc.in/assets/Admission/College.pdf?Valu=e8ae87be-280d-4ae7-a2fc-fc08b1c3104f",
+    "https://npgc.in/assets/Admission/Luacmat.pdf?Valu=8d0d4656-0031-4d0b-9671-45071f3c63b9",
     "https://npgcij.com",
     "https://npgcij.com/",
     "https://swayam.gov.in/",
@@ -182,8 +182,8 @@
     "https://www.npgc.in/Facilities-Magazine.aspx"
   ],
   "source_assets": [
-    "https://npgc.in/assets/Admission/College.pdf?Valu=8a87ae80-1d85-4b63-a63d-6d8d6cfc1fa8",
-    "https://npgc.in/assets/Admission/Luacmat.pdf?Valu=25d96f56-d2e5-4fc9-aac5-86361274ccd1",
+    "https://npgc.in/assets/Admission/College.pdf?Valu=e8ae87be-280d-4ae7-a2fc-fc08b1c3104f",
+    "https://npgc.in/assets/Admission/Luacmat.pdf?Valu=8d0d4656-0031-4d0b-9671-45071f3c63b9",
     "https://www.npgc.in/assets/Admission/College.pdf?Valu=80419607-4dae-482b-a30d-6bad3c48d69a",
     "https://www.npgc.in/assets/Admission/Luacmat.pdf?Valu=7a9559b3-f541-4f45-a345-7fb3815a71c1",
     "https://www.npgc.in/assets/MiscPDF/AntiRaggingRegulations2016.pdf",
@@ -834,31 +834,30 @@
       "alt": "College Tour"
     },
     {
-      "src": "https://www.npgc.in/assets/images/CollegeLogo.png?Valu=c82dc54c-4dfe-46f8-aff3-43dfa36e27f6",
+      "src": "https://www.npgc.in/assets/images/CollegeLogo.png?Valu=d31c37aa-6519-4eeb-a445-d9d62b695163",
       "alt": "College Logo"
     },
     {
-      "src": "https://www.npgc.in/assets/images/misc/AdmissionGlance.png?Valu=430cb85d-5e38-4142-a5e8-7503ae9a94a2",
+      "src": "https://www.npgc.in/assets/images/misc/AdmissionGlance.png?Valu=265c5ed2-74a5-4541-889f-96e75852577c",
       "alt": ""
     },
     {
-      "src": "https://www.npgc.in/assets/images/misc/SeatsOffered.png?Valu=777763bc-fe59-40d8-8ba2-ad808e50d9e9",
+      "src": "https://www.npgc.in/assets/images/misc/SeatsOffered.png?Valu=20ffa0b8-c1db-48c7-88a1-06c251190b2e",
       "alt": ""
     },
     {
-      "src": "https://www.npgc.in/assets/images/misc/Luaccet2022.png?Valu=8bd25c55-42cc-4eb3-9b22-fa1f8372eee9",
+      "src": "https://www.npgc.in/assets/images/misc/Luaccet2022.png?Valu=6b32663e-149d-4b22-a075-3a20bc10f3d7",
       "alt": ""
     },
     {
-      "src": "https://www.npgc.in/assets/images/misc/Luacmat2022.png?Valu=c2f976c4-1f6d-4570-95ab-374c4c8f7c32",
+      "src": "https://www.npgc.in/assets/images/misc/Luacmat2022.png?Valu=6fab5f7d-7139-4e72-bd8c-1c62f3795a7b",
       "alt": ""
     },
     {
-      "src": "https://www.npgc.in/assets/images/misc/ApplyNow.png?Valu=aed7a75f-f13b-49af-884f-2f19f5819559",
+      "src": "https://www.npgc.in/assets/images/misc/ApplyNow.png?Valu=e970e6a7-3ecf-4983-b596-9a64411cdc8e",
       "alt": ""
     }
   ],
   "extraction_status": "ok",
-  "extraction_error": "",
-  "local_assets": []
+  "extraction_error": ""
 }

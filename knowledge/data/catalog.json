@@ -290,60 +290,60 @@
       "data_file": "departments-faculty/counselling-center-by-psychology-department.json"
     },
     {
-      "title": "Departments and Faculties",
-      "path": "/departments-faculty/departments-and-faculties-2/",
+      "title": "Department of Commerce",
+      "path": "/departments-faculty/department-of-commerce/",
       "source_url": "https://www.npgc.in/Academics-DepartmentCommerce.aspx",
       "page_category": "departments-faculty",
       "category": "Departments and Faculty",
-      "data_file": "departments-faculty/departments-and-faculties-2.json"
+      "data_file": "departments-faculty/department-of-commerce.json"
     },
     {
-      "title": "Departments and Faculties",
-      "path": "/departments-faculty/departments-and-faculties-3/",
-      "source_url": "https://www.npgc.in/Academics-DepartmentScience.aspx",
-      "page_category": "departments-faculty",
-      "category": "Departments and Faculty",
-      "data_file": "departments-faculty/departments-and-faculties-3.json"
-    },
-    {
-      "title": "Departments and Faculties",
-      "path": "/departments-faculty/departments-and-faculties-4/",
-      "source_url": "https://www.npgc.in/Academics-DepartmentManagement.aspx",
-      "page_category": "departments-faculty",
-      "category": "Departments and Faculty",
-      "data_file": "departments-faculty/departments-and-faculties-4.json"
-    },
-    {
-      "title": "Departments and Faculties",
-      "path": "/departments-faculty/departments-and-faculties-5/",
+      "title": "Department of Computer Science",
+      "path": "/departments-faculty/department-of-computer-science/",
       "source_url": "https://www.npgc.in/Academics-DepartmentComputerScience.aspx",
       "page_category": "departments-faculty",
       "category": "Departments and Faculty",
-      "data_file": "departments-faculty/departments-and-faculties-5.json"
+      "data_file": "departments-faculty/department-of-computer-science.json"
     },
     {
-      "title": "Departments and Faculties",
-      "path": "/departments-faculty/departments-and-faculties-6/",
-      "source_url": "https://www.npgc.in/Academics-DepartmentJMC.aspx",
-      "page_category": "departments-faculty",
-      "category": "Departments and Faculty",
-      "data_file": "departments-faculty/departments-and-faculties-6.json"
-    },
-    {
-      "title": "Departments and Faculties",
-      "path": "/departments-faculty/departments-and-faculties-7/",
+      "title": "Department of Deen Dayal Upadhyay Kaushal Kendra",
+      "path": "/departments-faculty/department-of-deen-dayal-upadhyay-kaushal-kendra/",
       "source_url": "https://www.npgc.in/Academics-DepartmentDdukk.aspx",
       "page_category": "departments-faculty",
       "category": "Departments and Faculty",
-      "data_file": "departments-faculty/departments-and-faculties-7.json"
+      "data_file": "departments-faculty/department-of-deen-dayal-upadhyay-kaushal-kendra.json"
     },
     {
-      "title": "Departments and Faculties",
-      "path": "/departments-faculty/departments-and-faculties/",
+      "title": "Department of Journalism and Mass Communication",
+      "path": "/departments-faculty/department-of-journalism-and-mass-communication/",
+      "source_url": "https://www.npgc.in/Academics-DepartmentJMC.aspx",
+      "page_category": "departments-faculty",
+      "category": "Departments and Faculty",
+      "data_file": "departments-faculty/department-of-journalism-and-mass-communication.json"
+    },
+    {
+      "title": "Department of Management",
+      "path": "/departments-faculty/department-of-management/",
+      "source_url": "https://www.npgc.in/Academics-DepartmentManagement.aspx",
+      "page_category": "departments-faculty",
+      "category": "Departments and Faculty",
+      "data_file": "departments-faculty/department-of-management.json"
+    },
+    {
+      "title": "Department of Science",
+      "path": "/departments-faculty/department-of-science/",
+      "source_url": "https://www.npgc.in/Academics-DepartmentScience.aspx",
+      "page_category": "departments-faculty",
+      "category": "Departments and Faculty",
+      "data_file": "departments-faculty/department-of-science.json"
+    },
+    {
+      "title": "Departments and Faculties Overview",
+      "path": "/departments-faculty/departments-and-faculties-overview/",
       "source_url": "https://www.npgc.in/Academics-Department.aspx",
       "page_category": "departments-faculty",
       "category": "Departments and Faculty",
-      "data_file": "departments-faculty/departments-and-faculties.json"
+      "data_file": "departments-faculty/departments-and-faculties-overview.json"
     },
     {
       "title": "International Workshop Organised by Psychology Department ( 10 Apr 2016 )",
